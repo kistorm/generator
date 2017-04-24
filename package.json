@@ -10,12 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "2.1.2",
-    "async":"2.3.0",
-    "mysql":"2.13.0",
-    "sequelize":"3.30.4",
-    "sequelize-auto":"0.4.27",
-    "redis":"^2.7.1"
-
-
+    "async": "2.3.0",
+    "mysql": "2.13.0",
+    "sequelize": "3.30.4",
+    "sequelize-auto": "0.4.27",
+    "redis": "^2.7.1",
+    /** express packages*/
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2"
   }
 }
